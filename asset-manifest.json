@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Krishnakondabala/Portfolio.git/static/css/main.b42246f8.css",
+    "main.js": "/Krishnakondabala/Portfolio.git/static/js/main.c2675c7f.js",
+    "index.html": "/Krishnakondabala/Portfolio.git/index.html",
+    "main.b42246f8.css.map": "/Krishnakondabala/Portfolio.git/static/css/main.b42246f8.css.map",
+    "main.c2675c7f.js.map": "/Krishnakondabala/Portfolio.git/static/js/main.c2675c7f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b42246f8.css",
+    "static/js/main.c2675c7f.js"
+  ]
+}
